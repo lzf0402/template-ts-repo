@@ -1,2 +1,11 @@
-# template-ts-repo
-a template repo of ts
+# Project Name
+
+## Install
+
+
+
+## Usage
+
+
+
+## Props

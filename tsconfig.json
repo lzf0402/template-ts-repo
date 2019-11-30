@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "rootDirs": ["./src", "./demo"],
+    "outDir": "./dist",
+    "sourceMap": false,
+    "target": "es5",
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "lib": ["esnext", "dom"],
+    "jsx": "react",
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
