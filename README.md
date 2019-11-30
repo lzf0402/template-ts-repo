@@ -1,2 +1,2 @@
 # template-ts-repo
-a template repo 
+a template repo of ts
